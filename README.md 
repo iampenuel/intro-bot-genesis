@@ -1,0 +1,12 @@
+# Intro Bot: The Genesis Project
+
+This is a simple Python program that asks for your name, age, and favorite song, and responds with personalized messages. It uses string concatenation, input handling, and type conversion.
+
+## What I Learned
+- Variables and strings
+- Getting user input with `input()`
+- Type conversion using `int()`
+- String formatting and concatenation
+
+## Author
+Penuel Stanley-Zebulon
