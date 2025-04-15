@@ -9,34 +9,17 @@ This is a simple Python program that asks for your name, age, and favorite song,
 - String formatting and concatenation
 
 ## Sample Run
-WELCOME to the Sassy Identity reactor!!!
-Let's get this party started!
+What is your first name?: Penuel  
+What is your last name?: Stanley-Zebulon  
+Hey I am Penuel Stanley-Zebulon!  
+You're now in the system! You can't go back now MWAHAHAHA!!!
 
-============================================
-   DATA ENTRY BOT: The Identity Protocol
-============================================
-
-What's your first name?: Penuel  
-What's your last name?: Stanley-Zebulon  
-Apparently you are Penuel Stanley-Zebulon. Hi Penuel!
-
-How old are you?: twenty-five  
-Bruhhh I said a NUMBER. Not letters ahhh. Try again, I forgive you.  
 How old are you?: 19  
-Projected age in 5 years: 24
+You will be 24 in five years!
 
-How tall are you (in cm)?: one seventy  
-Use digits...DIGITSSS! Give me your height in NUMBERS. *sigh* try again dear  
-How tall are you (in cm)?: 185  
-Dang, my guyyyy...You better be modelling or in the NBA with this height haha. Jk Jk  
-You are tall!  
-You are 185.0 cm tall
-
-CraZZYYY question but...are you a human being? (yes/no): no  
-You are probably an alien or robot...or something. You can't be an animal...I think  
-but you're definitely NOT a human.
-
-Well there's your identity report Penuel!
+What is your favorite song?: Mr Telephone Man  
+dangggg I don't know anyone who still listens to  Mr Telephone Man uh! lameee  
+Just kidding...  Mr Telephone Man is pretty cool!
 
 
 ## Author
